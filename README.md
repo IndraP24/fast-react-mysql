@@ -3,7 +3,7 @@
 ## Overview
 
 
-## Requirement
+## Requirements
 
 
 ## Usage
@@ -17,7 +17,3 @@
 
 ## Author
 
-
-## License
-
-Please see license.txt.
